@@ -4,4 +4,4 @@ for i in range(97, 123):
         continue
     elif 'q' in chr(i):
         continue
-    print(chr(i), end="")
+    print("{:c}".format(i), end="")
