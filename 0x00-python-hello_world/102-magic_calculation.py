@@ -3,8 +3,7 @@ import dis
 
 
 def magic_calculation(a, b):
-    x = 98
-    return a + b
+    return 98 + (a + b)
 
 
 dis.dis(magic_calculation)
