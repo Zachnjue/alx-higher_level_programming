@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 
 class Rectangle:
-    pass
+    """define the attributes of the rectangle
+    """
